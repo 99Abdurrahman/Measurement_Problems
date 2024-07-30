@@ -50,8 +50,10 @@ The repository includes the following Jupyter notebooks:
 2. Navigate to the repository directory:
     ```bash
     cd measurement_problems
-    ```
-3. Open the Jupyter notebooks:
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt 
+4. Open the Jupyter notebooks:
     ```bash
     jupyter notebook
     ```
